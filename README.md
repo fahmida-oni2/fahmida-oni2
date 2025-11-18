@@ -6,22 +6,24 @@
   </a>
 </h1>
 
-<p align="center">
+
+<p align="left">
 <h1 align="center">Hi 👋, I'm Fahmida Rahman</h1>
+  <p>I am a passionate Web Development Enthusiast and Frontend Developer proficient in React.js, Express.js, JavaScript (ES6+), HTML5, and CSS3.
+I specialize in crafting dynamic, high-performance web applications using the MERN stack (JS, React, Express, MongoDB).
+My curiosity drives me to explore UI/UX design and scalable architecture, focusing on building robust applications with exceptional user experiences.</p>
   <br>
   <br>
   🔬 I am currently studying Master of Science in Electrical and Electronic Engineering at the University of Dhaka.
   <br>
   🎓 I graduated from University of Dhaka, Department of Electrical and Electronic Engineering (Undergraduate)
   <br>
-  🛠 &nbsp;I’m currently working with <strong>JS, React, Express, MongoDB.</strong>
-    <br>
   📫 How to reach me: <a href="mailto: onifahmida@gmail.com">onifahmida@gmail.com</a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmida-oni2&label=Profile%20views&color=0e75b6&style=flat" alt="fahmida-oni2" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fahmida-rahman-082676253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahmida-rahman-082676253" height="30" width="40" /></a>
 <a href="https://fb.com/fahmidarahman.oni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahmidarahman.oni" height="30" width="40" /></a>
@@ -31,7 +33,6 @@
 </p>
 
 <h3>Languages and technologies</h3>
-
 
 |       Skills Overview        | Technologies                                                                                                                                                                                                                          |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
