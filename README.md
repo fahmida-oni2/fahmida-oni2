@@ -8,7 +8,6 @@
 
 <p align="center">
 <h1 align="center">Hi 👋, I'm Fahmida Rahman</h1>
-  <h3 align="center">A passionate frontend developer</h3>
   <br>
   <br>
   🔬 I am currently studying Master of Science in Electrical and Electronic Engineering at the University of Dhaka.
@@ -40,7 +39,7 @@
 | **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
 | **Back-End Development** | ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)                                                   |
 | **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)                                                          |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) !![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino) ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab) ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)  |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)  |
 
 
 
