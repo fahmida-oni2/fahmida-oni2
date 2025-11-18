@@ -29,15 +29,6 @@
   <a href="https://github.com/fahmida-oni2/fahmida-oni2" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="YourGitHubUsername" height="30" width="40" />
 </a>
-<a href="mailto:onifahmida@gmail.com" target="_blank">
-    <img 
-        align="center" 
-        src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" 
-        alt="onifahmida@gmail.com" 
-        height="30" 
-        width="40" 
-    />
-</a>
 </p>
 
 <h3>Languages and technologies</h3>
