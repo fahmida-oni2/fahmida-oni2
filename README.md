@@ -1,3 +1,7 @@
+<img align=”right” alt=”Coding” width=”400” src="./Banner.png"/>
+
+
+
 ## Hi there 👋
 
 <!--
