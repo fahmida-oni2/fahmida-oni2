@@ -25,7 +25,7 @@ My curiosity drives me to explore UI/UX design and scalable architecture, focusi
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fahmida-rahman-082676253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahmida-rahman-082676253" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fahmida--rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahmida-rahman-082676253" height="30" width="40" /></a>
 <a href="https://fb.com/fahmidarahman.oni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahmidarahman.oni" height="30" width="40" /></a>
   <a href="https://github.com/fahmida-oni2/fahmida-oni2" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="YourGitHubUsername" height="30" width="40" />
