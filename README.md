@@ -1,4 +1,4 @@
-<img align=”right” alt=”Coding” width=”600” height="300" src="./Banner.png"/>
+<img align=”right” alt=”Coding” width=”400” src="./Banner.png"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
