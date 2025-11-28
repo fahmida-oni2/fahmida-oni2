@@ -10,7 +10,7 @@
 <p align="left">
 <h1 align="center">Hi 👋, I'm Fahmida Rahman</h1>
   <p>I am a passionate Web Development Enthusiast and Frontend Developer proficient in React.js, Express.js, JavaScript (ES6+), HTML5, and CSS3.
-I specialize in crafting dynamic, high-performance web applications using the MERN stack (JS, React, Express, MongoDB).
+I specialize in crafting dynamic, high-performance web applications using the MERN stack (JS, React,Next, Express, MongoDB).
 My curiosity drives me to explore UI/UX design and scalable architecture, focusing on building robust applications with exceptional user experiences.</p>
   <br>
   <br>
