@@ -22,26 +22,37 @@ My curiosity drives me to explore UI/UX design and scalable architecture, focusi
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmida-oni2&label=Profile%20views&color=0e75b6&style=flat" alt="fahmida-oni2" /> </p>
-
 <h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/fahmida--rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahmida-rahman-082676253" height="30" width="40" /></a>
-<a href="https://fb.com/fahmidarahman.oni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahmidarahman.oni" height="30" width="40" /></a>
-  <a href="https://github.com/fahmida-oni2/fahmida-oni2" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="YourGitHubUsername" height="30" width="40" />
-</a>
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/fahmida--rahman/" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://fb.com/fahmidarahman.oni" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/fahmida-oni2" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3>Languages and technologies</h3>
 
 |       Skills Overview        | Technologies                                                                                                                                                                                                                          |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**         | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)                                                       |
-| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js) 
-| **Back-End Development** | ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)                                                   |
-| **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)                                                          |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)  |
-
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) |
+| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js) |
+| **Mobile Development** | ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react) ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo) |
+| **Back-End Development** | ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva) |
 
 
 
